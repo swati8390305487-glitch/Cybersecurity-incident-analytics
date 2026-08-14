@@ -38,7 +38,7 @@ Power BI | Power Query | DAX | Data Visualization | Data Cleaning | Data Modelin
 
 ## Credits
 
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
+Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/xQNYubU0A-M?si=fD0cqBBOizr2K1LL
 
 ## Badges
 
