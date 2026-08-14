@@ -16,3 +16,6 @@ Developed an interactive Power BI Cybersecurity Incident Analytics Dashboard to 
 * ⏱️ Average incident resolution time
 * 🔎 Interactive filters for Year, Country, Attack Type, and Target Industry
 * 📈 KPI cards for quick executive-level insights
+  
+## Tools Used:
+Power BI | Power Query | DAX | Data Visualization | Data Cleaning | Data Modeling | Excel/CSV
