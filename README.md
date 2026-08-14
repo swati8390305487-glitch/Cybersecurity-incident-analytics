@@ -47,5 +47,16 @@ Throughout the development of this project, I have sought inspiration from a piv
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   
-## Tools Used:
-Power BI | Power Query | DAX | Data Visualization | Data Cleaning | Data Modeling | Excel/CSV
+## DAX Concepts Used
+
+COUNTROWS() – Total incidents
+SUM() – Financial loss & affected users
+AVERAGE() – Avg. resolution time
+DISTINCTCOUNT() – Countries affected
+CALCULATE() – Filter-based calculations
+DIVIDE() – Percentage analysis
+FILTER() – Conditional analysis
+ALL() – Remove filters
+YEAR() – Year-wise analysis
+Time Intelligence – Trend analysis
+Measures & Calculated Columns – KPI and analysis
