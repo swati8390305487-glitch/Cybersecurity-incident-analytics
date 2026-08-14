@@ -5,7 +5,9 @@
 Developed an interactive Power BI Cybersecurity Incident Analytics Dashboard to analyze cybersecurity incidents, attack patterns, financial losses, and affected users. The dashboard uses KPI cards, trend analysis, attack-type distribution, industry-wise financial loss, and interactive filters to provide a clear executive-level view of cybersecurity risks.
 
 ## Screenshot
-<img width="1024" height="573" alt="image 2" src="https://github.com/user-attachments/assets/e99ef22c-1419-413c-83f9-62cf34b66f92" />
+
+<img width="1023" height="580" alt="image" src="https://github.com/user-attachments/assets/ea69f1b0-257d-4d33-8344-e8bde5fd5dc0" />
+
 
 ## Key Features
 * 📊 Incident trends by year
