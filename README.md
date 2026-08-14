@@ -16,6 +16,34 @@ Developed an interactive Power BI Cybersecurity Incident Analytics Dashboard to 
 * ⏱️ Average incident resolution time
 * 🔎 Interactive filters for Year, Country, Attack Type, and Target Industry
 * 📈 KPI cards for quick executive-level insights
+
+## Installation
+
+To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
+
+<!-- ## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![schema](MusicDatabaseSchema.png)
+    ``` -->
+
+## Tools Used:
+
+Power BI | Power Query | DAX | Data Visualization | Data Cleaning | Data Modeling | Excel/CSV
+
+
+## Credits
+
+Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
+
+## Badges
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   
 ## Tools Used:
 Power BI | Power Query | DAX | Data Visualization | Data Cleaning | Data Modeling | Excel/CSV
