@@ -49,14 +49,26 @@ Throughout the development of this project, I have sought inspiration from a piv
   
 ## DAX Concepts Used
 
-COUNTROWS() – Total incidents
-SUM() – Financial loss & affected users
-AVERAGE() – Avg. resolution time
-DISTINCTCOUNT() – Countries affected
-CALCULATE() – Filter-based calculations
-DIVIDE() – Percentage analysis
-FILTER() – Conditional analysis
-ALL() – Remove filters
-YEAR() – Year-wise analysis
-Time Intelligence – Trend analysis
-Measures & Calculated Columns – KPI and analysis
+* COUNTROWS() – Total incidents
+* SUM() – Financial loss & affected users
+* AVERAGE() – Avg. resolution time
+* DISTINCTCOUNT() – Countries affected
+* CALCULATE() – Filter-based calculations
+* DIVIDE() – Percentage analysis
+* FILTER() – Conditional analysis
+* ALL() – Remove filters
+* YEAR() – Year-wise analysis
+* Time Intelligence – Trend analysis
+* Measures & Calculated Columns – KPI and analysis
+
+## Project Learning
+* Learned Power BI dashboard development and visualization techniques.
+* Improved skills in data cleaning and transformation using Power Query.
+* Learned to create DAX measures and calculated columns.
+* Gained knowledge of KPI, trend, and cybersecurity risk analysis.
+* Learned to design interactive dashboards using slicers and filters.
+* Developed skills in converting raw data into meaningful business insights.
+
+## Conclusion
+
+The Cybersecurity Incident Analytics Dashboard provides a clear view of cyber incidents, attack patterns, financial losses, affected users, and resolution time. The project demonstrates how Power BI, DAX, data analysis, and visualization can transform cybersecurity data into actionable insights for better security monitoring and decision-making.
